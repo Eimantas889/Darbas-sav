@@ -1,0 +1,30 @@
+body {
+	margin: 0; 
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+	overflow: hidden;
+}
+
+a {
+	display:block;
+	width:152px;
+	padding: 4;
+	border-radius: 25px;
+	
+}
+a:link, a:visited {
+	font-weight:bold;
+	color:#000000;
+	background:#dddddd;
+	text-align:center;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+a:hover,a:active {
+	background-color:#819FF7;
+}
+li { float: left;}
